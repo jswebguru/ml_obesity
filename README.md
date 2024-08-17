@@ -36,7 +36,6 @@ All of the above preprocessing procedures are bundled into a pipeline, which als
 * Stochastic Gradient Descent
 * Support Vector Machine
 
-A classification report of each model is also included.
-
+![Comparison of each model](comparison.png) 
 
 First commit: 1st September, 2020
